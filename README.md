@@ -7,8 +7,9 @@
   <a href="https://twitter.com/abigger87" target="_blank">
     <img alt="Twitter: abigger87" src="https://img.shields.io/twitter/follow/abigger87.svg?style=social" />
   </a>
-  [![HitCount](http://hits.dwyl.com/abigger87/abigger87.svg)](http://hits.dwyl.com/abigger87/abigger87)
 </p>
+
+[![HitCount](http://hits.dwyl.com/abigger87/abigger87.svg)](http://hits.dwyl.com/abigger87/abigger87)
 
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
 
