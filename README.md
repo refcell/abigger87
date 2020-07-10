@@ -21,6 +21,4 @@
 * Github: [@abigger87](https://github.com/abigger87)
 * LinkedIn: [@andreasbigger](https://linkedin.com/in/andreasbigger)
 
-Contributions image below created by [Malte Ubl](https://github.com/cramforce/)
-
-<img alt="Contribution" src="https://github.com/abigger87/abigger87/blob/master/public/contribution.png" />
+Contributions [github-graffiti](https://github.com/mavrk/github-graffiti)
