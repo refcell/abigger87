@@ -13,7 +13,7 @@
 
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
 
-<img alt="Contribution" src="./public/contribution.png" />
+<img alt="Contribution" src="https://github.com/abigger87/abigger87/blob/master/public/contribution.png" />
 
 ### 🏠 [Personal Website](https://andreasbigger.com)
 
