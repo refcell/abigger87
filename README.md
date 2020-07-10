@@ -13,6 +13,8 @@
 
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
 
+<img alt="Contribution" src="/public/contribution.png" />
+
 ### 🏠 [Personal Website](https://andreasbigger.com)
 
 * Website: https://andreasbigger.com
