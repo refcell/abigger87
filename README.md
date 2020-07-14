@@ -18,6 +18,10 @@
 
 </p>
 
+
+#### I'm Andreas, an undergrad and Viterbi Fellow at USC learning and experimenting with Software, Finance, and Physics
+
+
 ### 🏠 [Personal Website](https://andreasbigger.com)
 
 * Website: https://andreasbigger.com
