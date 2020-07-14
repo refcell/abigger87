@@ -13,6 +13,7 @@
 
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
 
+[![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=abigger87)](https://github.com/abigger87)
 
 ### 🏠 [Personal Website](https://andreasbigger.com)
 
