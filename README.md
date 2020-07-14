@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Andreas Bigger 👨‍💻</h1>
-<span align="center">
+<div style="text-align: center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fabigger87" alt="Hits">
   <a href="https://readme.andreasbigger.com" target="_blank">
@@ -8,7 +8,7 @@
   <a href="https://twitter.com/abigger87" target="_blank">
     <img alt="Twitter: abigger87" src="https://img.shields.io/twitter/follow/abigger87.svg?style=social" />
   </a>
-</span>
+</div>
 
 
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
