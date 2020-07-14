@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Andreas Bigger 👨‍💻</h1>
-<span>
+<span align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fabigger87" alt="Hits">
   <a href="https://readme.andreasbigger.com" target="_blank">
