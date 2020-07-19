@@ -14,7 +14,7 @@
 > Personal Readme to present Andreas Bigger's developer vision, goals, and practices
 <p align="center">
  
-[![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=abigger87)](https://github.com/abigger87)
+[![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=abigger87&show_icons=true&theme=cobalt)](https://github.com/abigger87)
 
 <a href="https://stackexchange.com/users/11884055/andreas-bigger"><img src="https://stackexchange.com/users/flair/11884055.png" width="208" height="58" alt="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
