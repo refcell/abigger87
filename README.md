@@ -16,7 +16,9 @@
  
 [![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=abigger87&show_icons=true&theme=cobalt)](https://github.com/abigger87)
 
-{/*<a href="https://stackexchange.com/users/11884055/andreas-bigger"><img style="border-radius: 7px;" src="https://stackexchange.com/users/flair/11884055.png?theme=dark" width="500px" height="auto" alt="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>*/}
+<!--
+<a href="https://stackexchange.com/users/11884055/andreas-bigger"><img style="border-radius: 7px;" src="https://stackexchange.com/users/flair/11884055.png?theme=dark" width="500px" height="auto" alt="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andreas Bigger on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+-->
 
 </p>
 
