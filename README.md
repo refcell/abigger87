@@ -20,11 +20,6 @@
 
 </p>
 -->
-
-🏠 [Personal Website](https://andreasbigger.com)
-
-🐦 [Twitter @andreasbigger](https://twitter.com/andreasbigger)
-
-💻 [Github @abigger87](https://github.com/abigger87)
-
-🤮 [LinkedIn @andreasbigger](https://linkedin.com/in/andreasbigger)
+<div align="center">
+  🏠 <a href="https://andreasbigger.com">Personal Website<a/> | 🐦 <a href="https://twitter.com/andreasbigger">Twitter @andreasbigger</a> | 💻 <a href="https://github.com/abigger87">Github @abigger87</a> | 🤮 <a href="https://linkedin.com/in/andreasbigger">LinkedIn @andreasbigger</a>
+</div>
