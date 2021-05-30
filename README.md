@@ -21,12 +21,10 @@
 </p>
 -->
 
+🏠 [Personal Website](https://andreasbigger.com)
 
-### 🏠 [Personal Website](https://andreasbigger.com)
+🐦 [Twitter @andreasbigger](https://twitter.com/andreasbigger)
 
-* Website: https://andreasbigger.com
-* Twitter: [@andreasbigger](https://twitter.com/andreasbigger)
-* Github: [@abigger87](https://github.com/abigger87)
-* LinkedIn: [@andreasbigger](https://linkedin.com/in/andreasbigger)
+💻 [Github @abigger87](https://github.com/abigger87)
 
-Contributions [github-graffiti](https://github.com/mavrk/github-graffiti)
+🤮 [LinkedIn @andreasbigger](https://linkedin.com/in/andreasbigger)
