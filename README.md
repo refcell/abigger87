@@ -20,6 +20,8 @@
 
 </p>
 -->
+<br />
+
 <div align="center">
   🏠 <a href="https://andreasbigger.com">Personal Website<a/> | 🐦 <a href="https://twitter.com/andreasbigger">Twitter @andreasbigger</a> | 💻 <a href="https://github.com/abigger87">Github @abigger87</a> | 🤮 <a href="https://linkedin.com/in/andreasbigger">LinkedIn @andreasbigger</a>
 </div>
